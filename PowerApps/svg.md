@@ -1,5 +1,5 @@
 "data:image/svg+xml;utf8, " & EncodeUrl(
-    //Start SVG here
+    " //Start SVG here
 
     " //End SVG here 
 )
