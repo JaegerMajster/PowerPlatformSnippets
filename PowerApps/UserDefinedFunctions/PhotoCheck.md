@@ -7,3 +7,5 @@ udfVerifyProfilePhoto(ParamEmail: Text):Boolean =
         Office365Users.UserPhotoMetadata(ParamEmail).HasPhoto
     )
 ;
+
+// Do poprawienia przy użyciu funkcji IfError()
